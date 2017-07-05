@@ -12,7 +12,7 @@ Then once on the bash shell give:
 bin/run-example SparkPi 10000
 ```
 
-Check http://localhost:8080 and http://localhost:18080 on your host for Spark Master and History Server respectively
+Check [http://localhost:8080](http://localhost:8080) and [http://localhost:18080](http://localhost:18080) on your host for Spark Master and History Server respectively
 
 Inspired by [gettyimages/docker-spark](https://github.com/gettyimages/docker-spark) and
 [sequenceiq/hadoop-docker](https://github.com/sequenceiq/hadoop-docker)
